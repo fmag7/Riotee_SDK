@@ -29,7 +29,7 @@ Due to the design of the bias voltage circuit, it takes around 4ms for the bias 
 
 | Pin      | Description                                                                                 |
 |----------|---------------------------------------------------------------------------------------------|
-| SCA      | I2C clock. Connected to accelerometer and T&H sensor.                                       |
+| SCL      | I2C clock. Connected to accelerometer and T&H sensor.                                       |
 | SDA      | I2C clock. Connected to accelerometer and T&H sensor.                                       |
 | AccInt   | Accelerometer interrupt line.                                                               |
 | MicPower | Enables microphone power. Active low. 1M on-board pull-up.                                  |
